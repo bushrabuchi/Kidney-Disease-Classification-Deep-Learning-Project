@@ -16,3 +16,4 @@ pip install -r requirements.txt
 Write-Host "Virtual environment created and packages installed successfully!" -ForegroundColor Green
 Write-Host "To activate in the future, run: .\.venv\Scripts\Activate.ps1" -ForegroundColor Yellow
 
+
